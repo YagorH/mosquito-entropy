@@ -9,7 +9,7 @@ A lightweight, zero-dependency, step-by-step build randomizer for **The Finals**
 
 ### ⚡ Quick Start (No Compilation Required)
 If you just want to play the game and don't want to mess with compilers and code, we've got you covered!
-1. Go to the **[Releases]([https://github.com/YagorH/mosquito-entropy/releases])** section on the right side of this page.
+1. Go to the **[Releases](https://github.com/YagorH/mosquito-entropy/releases)** section on the right side of this page.
 2. Download the latest standalone executable for your OS (`.exe` for Windows, binary for Linux).
 3. Run it instantly and enjoy your random loadout!
 
